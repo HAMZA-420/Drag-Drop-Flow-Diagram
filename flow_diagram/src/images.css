@@ -1,0 +1,42 @@
+.bulb {
+    background-image: url("./images/bulb.jpg");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.solar {
+    background-image: url("./images/solar.jpg");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.devices {
+    background-image: url("./images/Devices.jpg");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.generator {
+    background-image: url("./images/generator.png");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
+
+.grid {
+    background-image: url("./images/grid.png");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+    
+}
+
+.battery {
+    background-image: url("./images/battery.png");
+    background-size: 100px 100px;
+    height: 100px;
+    width: 100px;
+}
